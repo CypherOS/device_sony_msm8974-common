@@ -1,0 +1,27 @@
+[
+  {
+    "repository":  "device_sony_common",
+    "target_path": "device/sony/common-caf",
+    "remote":      "aoscp"
+  },
+  {
+    "repository":  "device_qcom_common",
+    "target_path": "device/qcom/common",
+    "remote":      "aoscp"
+  },
+  {
+    "repository":  "hardware_sony_thermanager",
+    "target_path": "hardware/sony/thermanager",
+    "remote":      "aoscp"
+  },
+  {
+    "repository":  "hardware_sony_location",
+    "target_path": "hardware/sony/location",
+    "remote":      "aoscp"
+  },
+  {
+    "repository":  "hardware_sony_macaddrsetup",
+    "target_path": "hardware/sony/macaddrsetup",
+    "remote":      "aoscp"
+  }
+]
