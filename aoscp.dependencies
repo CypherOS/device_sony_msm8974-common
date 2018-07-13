@@ -2,26 +2,37 @@
   {
     "repository":  "device_sony_common",
     "target_path": "device/sony/common-caf",
+    "branch":      "parfait-release",
     "remote":      "aoscp"
   },
   {
     "repository":  "device_qcom_common",
     "target_path": "device/qcom/common",
+    "branch":      "parfait-release",
     "remote":      "aoscp"
   },
   {
     "repository":  "hardware_sony_thermanager",
     "target_path": "hardware/sony/thermanager",
+    "branch":      "parfait-release",
     "remote":      "aoscp"
   },
   {
     "repository":  "hardware_sony_location",
     "target_path": "hardware/sony/location",
+    "branch":      "parfait-release",
     "remote":      "aoscp"
   },
   {
     "repository":  "hardware_sony_macaddrsetup",
     "target_path": "hardware/sony/macaddrsetup",
+    "branch":      "parfait-release",
     "remote":      "aoscp"
+  }.
+  {
+    "repository":  "sahulkrishan/android_hardware_broadcom_fm",
+    "target_path": "hardware/broadcom/fm",
+    "branch":      "parfait-release",
+    "remote":      "github"
   }
 ]
